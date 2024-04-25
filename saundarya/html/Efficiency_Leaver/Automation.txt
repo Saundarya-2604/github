@@ -1,0 +1,81 @@
+PIAE (Python Integrated Automation Engine) Is An Asset From HAP To Automate Any End-To-End Workflow Based On Python Libraries Calling In MS Excel Sheet. Complete Open-Source Solution And No License Cost.
+
+Deployed Successfully In Many Accounts To Automate Web, Desktop, AS400, Mainframes, Database, And API Workflows. In This Quarter, We Have Developed An Automation Solution For SAP Health Check Using PIAE And Provided A Demo To SAP Capability.
+
+Business Challenges:
+
+Hybrid Landscape (SAP / Non-SAP) And Integration Lead To Complex Automation Solutions.
+The Infrastructure Required To Deploy Automation Solution.
+Coding Expertise Required To Create/Deploy And Further Maintain Use Cases For Automation – RPA – UI Path, Blue Prism, Etc.
+Tool Licenses Are Required For SAP Monitoring.
+Time And Effort To Develop Scripts.
+Scripts Maintenance By Functional Team/Dependency.
+SAP Technical Use Cases:
+
+SAP System Monitoring.
+Application Availability Checks.
+Application Health Checks.
+User Administration & Authorization Management.
+Standard Application Monitoring Checks (Few Listed Below…)
+
+HANA DB, Memory, CPU Trend
+Top 10 Transactions Reports
+SM12 – Enqueue Locks
+SM13 – Pending/Canceled Update RecordsDB01 – Database Locks.
+SM37 – Long-Running, Canceled Jobs
+SM37 – Cancelled Jobs
+ST22 – Runtime Errors/Dumps
+MVCC – Active Versions
+Blocked Transactions
+Column Store Unloads
+Launch Application URLs And Check If The Application Is Up And Running Periodically. Send A Communication If The Application Is Down Through Mail.
+Monitor The Folder And Check For Any Error Files Present In The Production Environment.
+User Roles Creation, Assignment
+Password Reset
+SAP Functional Use Cases (2/2) Automating Audit Requirements/Reports
+
+Yearly Audit Requirements Require A Lot Of Intervention From The IT & Business Team – Automation Of Specific Standard Reports Can Help Ease Up Multiple Efforts Required
+Integration With Compliance Check Dashboards – To Help Take Proactive Actions
+Help In Minimal/Near-Zero Non-Compliance
+Automate Period End Process
+DXC Framework – Python Integrated Automation Engine (PIAE) Solution Architecture
+
+PIAE (Python Integrated Automation Engine) Is Based On ROBOT-FRAMEWORK (An Open-Source).
+
+FEATURES
+
+Easy-To-Use Syntax
+Easy-To-Read Result Reports And Logs
+Platform And Application-Independent
+Supports Creating Data-Driven Test Cases
+LIBRARIES
+
+Selenium Library
+Appium Library
+RPA Library
+Additional Tools
+
+JAVA - To Perform Tasks On Mobile Application
+APPIUM SERVER – Can Be Hosted On Localhost For Connecting To Native Application
+Advantages:
+
+Business Challenges
+
+Hybrid Landscape (Web / Mobile Application) And Integration Leading To Complex Automation Solutions
+The Infrastructure Required To Deploy An Automation Solution
+Coding Expertise Required To Create/Deploy And Further Maintain Use Cases For Automation – RPA – UI Path, Blue Prism, Etc.
+Tool Licenses Required For SAP Monitoring
+Time And Effort To Develop Scripts
+Scripts Maintenance By Functional Team/Dependency.
+PIAE (Python Integrated Automation Engine)
+
+Easy To Develop The Script And Maintain (Low Code/No Code)
+The End-User In Customer Organization Can Even Write/Deploy Their Solutions And Automate Day-To-Day Tasks
+Easy To Deploy At The End-User Level
+Supports Data-Driven And Script Execution Can Be Scheduled
+Flexibility In Integration With ITSM Tool
+Results Can Be Published In PDF/Excel/Word Through Email
+Open-Source And No License Cost.
+2. On-Call Support:
+Training
+UCMS Progress
